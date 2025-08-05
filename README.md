@@ -131,10 +131,11 @@ The author assumes no liability for misuse or damages.
 🙌 Credits
 Developed and maintained by 1024-Cybersecurity Services
 
-Linkedin: linkedin.com/in/1024Cyber
-X:         x.com/1024Cyber
-Github:    github.com/1024Cyber
+Linkedin: https://linkedin.com/in/1024Cyber
+X:         https://x.com/1024Cyber
+Github:    https://github.com/1024Cyber
 Telegram Channel:  https://t.me/+tNHGAz8EWk1mM2Jk
+
 
 Inspired by real-world offensive tradecraft and blue team detection strategies.
 
